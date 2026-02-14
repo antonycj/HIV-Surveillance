@@ -12,7 +12,7 @@ The goal of this project is to show an example of analyzing HIV data. The type o
 - **Python** - Used to simulate individual level HIV data and perform QA
   - Libraries:  `pandas`, `numpy`, `matplotlib`, `faker`
 - **R** - Used to perform HIV surveillance analyses on simulated data
-- -**Power BI** - Used to create dashboard for both QA and final analysis of data
+- **Power BI** - Used to create dashboard for both QA and final analysis of data
 - **Techniques** -???
 
 ---
