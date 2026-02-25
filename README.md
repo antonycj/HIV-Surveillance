@@ -35,6 +35,7 @@ The goal of this project is to show an example of analyzing HIV data. The type o
 
 ### Quality Assurance
 
+![Quality Assuarance Dashboard](https://github.com/antonycj/HIV-Surveillance/blob/main/hiv_qa_dash_1.jpg)
 
 ---
 
